@@ -1,0 +1,16 @@
+{
+  "name": "NoEditedTag",
+  "description": "Hides the (edited) marker locally, and can cloak edits with a bidi character.",
+  "authors": [
+    {
+      "name": "Doge",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.1.0",
+  "hash": "2",
+  "vendetta": {
+    "icon": "PencilIcon"
+  }
+}
